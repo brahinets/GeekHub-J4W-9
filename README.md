@@ -4,4 +4,6 @@ Java for Web project for GeekHub, Season 9
 
 ##########################################
 
-Lesson 1 - Intro
+|Lesson|Date|Topic|
+|:----:|:--:|:----|
+| 1|Oct  2, 2019|Intro|
