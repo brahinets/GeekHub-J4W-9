@@ -17,7 +17,7 @@ public class Lesson1Main {
         final String algorithm = args[0];
         final String initialString = args[1];
 
-        System.out.println("Initial: " + initialString);
+        System.out.println("Initial: " + algorithm);
         System.out.println("Algorithm: " + initialString);
 
         final Encoder encoder = EncodersFactory.getEncoder(algorithm);
