@@ -1,4 +1,4 @@
-package org.geekhub.lesson1.util;
+package org.geekhub.crypto.util;
 
 public class NotImplementedException extends RuntimeException {
     public NotImplementedException() {

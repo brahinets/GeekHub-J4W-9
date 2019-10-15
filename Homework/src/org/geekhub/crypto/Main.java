@@ -1,13 +1,13 @@
-package org.geekhub.lesson1;
+package org.geekhub.crypto;
 
-import org.geekhub.lesson1.coders.Decoder;
-import org.geekhub.lesson1.coders.DecodersFactory;
-import org.geekhub.lesson1.coders.Encoder;
-import org.geekhub.lesson1.coders.EncodersFactory;
+import org.geekhub.crypto.coders.Decoder;
+import org.geekhub.crypto.coders.DecodersFactory;
+import org.geekhub.crypto.coders.Encoder;
+import org.geekhub.crypto.coders.EncodersFactory;
 
 import java.util.Objects;
 
-public class Lesson1Main {
+public class Main {
 
     public static void main(String[] args) {
         if (args.length != 2) {

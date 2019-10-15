@@ -1,8 +1,8 @@
-package org.geekhub.lesson1.coders;
+package org.geekhub.crypto.coders;
 
-import org.geekhub.lesson1.util.NotImplementedException;
+import org.geekhub.crypto.util.NotImplementedException;
 
-class CaesarCodec implements Encoder, Decoder {
+class MorseCodec implements Encoder, Decoder {
 
     @Override
     public String encode(String input) {

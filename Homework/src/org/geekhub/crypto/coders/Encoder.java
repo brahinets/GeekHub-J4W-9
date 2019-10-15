@@ -1,4 +1,4 @@
-package org.geekhub.lesson1.coders;
+package org.geekhub.crypto.coders;
 
 public interface Encoder {
 
