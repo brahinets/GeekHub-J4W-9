@@ -1,6 +1,6 @@
 package org.geekhub.crypto.coders;
 
-public enum Algorithms {
+public enum Algorithm {
     CAESAR,
     MORSE;
 }
