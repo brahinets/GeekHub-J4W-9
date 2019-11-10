@@ -12,7 +12,7 @@ Java for Web project for GeekHub, Season 9
 | 4|October 23, 2019|Generics. Collections Framework - List|
 | 5|October 30, 2019|Collections Framework - Set, Map|
 | 6|November 5, 2019|Practice|
-| 7|November 12, 2019|Code Testing (Unit Testing)|
+| 7|November 13, 2019|Code Testing (Unit Testing)|
 | 8|November 19, 2019|Exceptions|
 | 9|November 26, 2019|Functional Programming|
 | 10|December 3, 2019|Stream API|
