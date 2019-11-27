@@ -13,9 +13,9 @@ Java for Web project for GeekHub, Season 9
 | 5|October 30, 2019|Collections Framework - Set, Map|
 | 6|November 5, 2019|Practice|
 | 7|November 13, 2019|Code Testing (Unit Testing)|
-| 8|November 19, 2019|Exceptions|
-| 9|November 26, 2019|Functional Programming|
-| 10|December 3, 2019|Stream API|
-| 11|December 10, 2019|Input/Output|
-| 12|December 17, 2019|Reflection API|
-| 13|December 24, 2019|Servlet API (Web)|
+| 8|November 18, 2019|Functional Programming|
+| 9|November 25, 2019|Stream API|
+| 10|December 2, 2019|Exceptions|
+| 11|December *, 2019|Input/Output|
+| 12|December *, 2019|Reflection API|
+| 13|December *, 2019|Servlet API (Web)|
