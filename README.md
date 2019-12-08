@@ -16,6 +16,6 @@ Java for Web project for GeekHub, Season 9
 | 8|November 18, 2019|Functional Programming|
 | 9|November 25, 2019|Stream API|
 | 10|December 2, 2019|Exceptions|
-| 11|December *, 2019|Input/Output|
+| 11|December 9, 2019|Input/Output|
 | 12|December *, 2019|Reflection API|
 | 13|December *, 2019|Servlet API (Web)|
