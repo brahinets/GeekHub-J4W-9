@@ -20,3 +20,4 @@ Java for Web project for GeekHub, Season 9
 | 12|December 16, 2019|Reflection API|
 | 13|December 23, 2019|Servlet API (Web)|
 | 14|January 08, 2020|JDBC|
+| 15|January 13, 2020|Practice|
