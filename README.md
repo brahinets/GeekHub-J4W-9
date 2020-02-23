@@ -26,8 +26,8 @@ Java for Web project for GeekHub, Season 9
 | 18|February 03, 2020|Spring Security|
 | 19|February 10, 2020|REST, Swagger|
 | 20|February 17, 2020|Practice|
-| 21|February 24, 2020|Spring - JDBC|
-| 22|March 02, 2020|Gradle, Flyway|
+| 21|February 24, 2020|Spring JDBC, Flyway|
+| 22|March 02, 2020|Gradle|
 | 23|March 09, 2020|Integration Testing|
 | 24|March 16, 2020|Concurrency|
 | 25|March 23, 2020|Course works pre-review|
