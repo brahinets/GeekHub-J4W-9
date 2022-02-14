@@ -1,9 +1,30 @@
-# GeekHub9
 
-Java for Web project for GeekHub, Season 9
+<p align="center">
+  <img width="600" height="220" src="https://user-images.githubusercontent.com/4119411/153947697-bf0adb2f-7fcb-4bde-837a-21fa1baad76b.png">   
+</p>
 
-##########################################
+> # When you learn, teach. When you get, give (Maya Angelou)
 
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153082286-ee66eabe-7f14-48ed-8256-ad7cf4a8dd2f.png">GeekHub
+------------
+<p align="justify">
+Repository is dedicated to the ninth season of open source volunteering educational initiative within the GeekHub organization, where people can get IT skills for free. During 7-8 months of education, geeks attend a hub hosted in the city of <a href="https://goo.gl/maps/mZi6u17qnN3VdEzC7">Cherkasy (Ukraine, 18000)</a> and acquire the basic theoretical skills verified by practice in a variety of courses, from Project Management to Java and Ruby. More details about GeekHub, our team, and our goals can be found on the official organization <a href="https://geekhub.ck.ua">GeekHub</a> web-page.
+</p>
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153068812-79820f3c-25dc-4e61-87dd-bf21b6b74986.png">Java for Web
+------------
+<p align="justify">
+Coverage of basic knowledge and skills required by one of the most demanded positions in the local job market as of 2019: web development using <a href="https://www.java.com">Java</a> programming language - is the main goal. Course starts from learning of main core java features and continued by adopting one of the most popular tools in the market as of day - <a href="https://spring.io">Spring Framework</a>. During the course, each student receives personal feedback on each homework task. Progress is monitored by mentors and common recommendations are overviewed with the audience at the beginning of each lesson. New knowledge is mixed with slices of best development practices and principles. Final examination work is implemented personally by each student in a form of a self-sufficient stateful web application applying all obtained skills.
+</p>
+
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153948324-83abfac3-5051-417a-8d5b-44dd16bb3f4c.png">Season 9
+------------
+<p align="justify">
+Season 9 led by three colleagues <a href="https://github.com/brahinets">Yaroslav Brahinets</a>, <a href="https://github.com/olexandrkucher">Oleksandr Kucher</a> and <a href="https://github.com/vrudas">Vasya Rudas</a>. Group of 17 people stared in October 2019. Once a week a new topic was presented to students. At home students, had proven their skill by evolving a pet project - WebChat. During the course, a simple console application was transformed to a robust web-app supporting an exchange of messages between users using different languages (codecs). Course was finished in April 2020 by certification of five junior java developers.</p>
+
+<details>  
+<summary>Click to view the course program</summary>
+  
 |Lesson|Date|Topic|
 |:----:|:--:|:----|
 | 1|October  2, 2019|Intro|
@@ -34,3 +55,8 @@ Java for Web project for GeekHub, Season 9
 | 26|March 30, 2020|Hibernate, Spring Data|
 | 27|April 06, 2020|Practice|
 | 28|April 13, 2020|Course works final review|
+</details>
+
+
+### [In previous seasons...](https://github.com/brahinets/GeekHub-J4W-8#season-8)
+</p>
